@@ -1,0 +1,10 @@
+C:\Users\4moin\onedrive\documents\visual studio 2013\Projects\TestEvidos\EvidosConsole\bin\Debug\EvidosConsole.exe.config
+C:\Users\4moin\onedrive\documents\visual studio 2013\Projects\TestEvidos\EvidosConsole\bin\Debug\EvidosConsole.exe
+C:\Users\4moin\onedrive\documents\visual studio 2013\Projects\TestEvidos\EvidosConsole\bin\Debug\EvidosConsole.pdb
+C:\Users\4moin\onedrive\documents\visual studio 2013\Projects\TestEvidos\EvidosConsole\bin\Debug\EvidosLibrary.dll
+C:\Users\4moin\onedrive\documents\visual studio 2013\Projects\TestEvidos\EvidosConsole\bin\Debug\Newtonsoft.Json.dll
+C:\Users\4moin\onedrive\documents\visual studio 2013\Projects\TestEvidos\EvidosConsole\bin\Debug\EvidosLibrary.pdb
+C:\Users\4moin\onedrive\documents\visual studio 2013\Projects\TestEvidos\EvidosConsole\obj\Debug\EvidosConsole.csprojResolveAssemblyReference.cache
+C:\Users\4moin\onedrive\documents\visual studio 2013\Projects\TestEvidos\EvidosConsole\obj\Debug\EvidosConsole.exe
+C:\Users\4moin\onedrive\documents\visual studio 2013\Projects\TestEvidos\EvidosConsole\obj\Debug\EvidosConsole.pdb
+C:\Users\4moin\onedrive\documents\visual studio 2013\Projects\TestEvidos\EvidosConsole\bin\Debug\DataFile.json

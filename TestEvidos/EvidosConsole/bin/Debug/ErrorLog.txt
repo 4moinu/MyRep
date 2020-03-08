@@ -1,0 +1,21 @@
+=============Error Logging ===========
+===========Start============= 08-03-2020 12:22:26
+Error Message: Object reference not set to an instance of an object.
+Stack Trace:    at EvidosLibrary.DALClass.RegisterUser(UserClass objUser)
+===========End============= 08-03-2020 12:22:28
+=============Error Logging ===========
+===========Start============= 08-03-2020 16:23:05
+Error Message: String was not recognized as a valid DateTime.
+Stack Trace:    at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at EvidosConsole.Program.UserSelection() in c:\Users\4moin\OneDrive\Documents\Visual Studio 2013\Projects\TestEvidos\EvidosConsole\Program.cs:line 49
+===========End============= 08-03-2020 16:23:05
+=============Error Logging ===========
+===========Start============= 08-03-2020 16:30:46
+Error Message: Input string was not in a correct format.
+Stack Trace:    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int16.Parse(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt16(String value)
+   at EvidosConsole.Program.UserSelection() in c:\Users\4moin\OneDrive\Documents\Visual Studio 2013\Projects\TestEvidos\EvidosConsole\Program.cs:line 62
+===========End============= 08-03-2020 16:30:46

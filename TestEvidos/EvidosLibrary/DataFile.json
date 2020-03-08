@@ -1,0 +1,24 @@
+{
+  "data" : [
+    {
+      "emailAddress": "moinu@gmail.com",
+      "isVerified": true,
+      "registeredDate": "12-05-2019",
+      "encryptedPassword": "P@ssW1906dP@ssW2456dP@ssW1266dP@ssW1996dP@ssW2456dP@ssW586dP@ssW1096dP@ssW646dP@ssW1906dP@ssW1826dP@ssW646dP@ssW1676dP@ssW1286dP@ssW1666dP@ssW576dP@ssW2006dP@ssW596dP@ssW1946dP@ssW1546dP@ssW2006dP@ssW1696dP@ssW1296dP@ssW1116dP@ssW316dP@ssW1986dP@ssW1976dP@ssW1986dP@ssW2206dP@ssW2176dP@ssW606dP@ssW716dP@ssW336d"
+
+    },
+    {
+      "emailAddress": "abc@gmail.com",
+      "isVerified": false,
+      "registeredDate": "01-03-2020",
+      "encryptedPassword": "P@ssW1906dP@ssW2456dP@ssW1266dP@ssW1996dP@ssW2456dP@ssW586dP@ssW1096dP@ssW646dP@ssW1906dP@ssW1826dP@ssW646dP@ssW1676dP@ssW1286dP@ssW1666dP@ssW576dP@ssW2006dP@ssW596dP@ssW1946dP@ssW1546dP@ssW2006dP@ssW1696dP@ssW1296dP@ssW1116dP@ssW316dP@ssW1986dP@ssW1976dP@ssW1986dP@ssW2206dP@ssW2176dP@ssW606dP@ssW716dP@ssW336d"
+    },
+    {
+      "emailAddress": "defrr@gmail.com",
+      "isVerified": false,
+      "registeredDate": "12-05-2019",
+      "encryptedPassword": "P@ssW1906dP@ssW2456dP@ssW1266dP@ssW1996dP@ssW2456dP@ssW586dP@ssW1096dP@ssW646dP@ssW1906dP@ssW1826dP@ssW646dP@ssW1676dP@ssW1286dP@ssW1666dP@ssW576dP@ssW2006dP@ssW596dP@ssW1946dP@ssW1546dP@ssW2006dP@ssW1696dP@ssW1296dP@ssW1116dP@ssW316dP@ssW1986dP@ssW1976dP@ssW1986dP@ssW2206dP@ssW2176dP@ssW606dP@ssW716dP@ssW336d"
+
+    }
+  ]
+}
